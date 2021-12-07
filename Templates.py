@@ -1,5 +1,5 @@
 #
-# Author: Grayson Petter
+# Author: Grayson Petter, modified by Sofia Edgar
 # Templates.py
 # Functions to redshift, interpolate, and integrate IR templates in order to simulate observed colors & luminosities
 
